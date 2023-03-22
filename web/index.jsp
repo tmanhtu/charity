@@ -374,15 +374,13 @@
             <div class="col-lg-4 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="img/team-1.jpg" alt="Team Image">
+                        <img src="img/team.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Donald John</h2>
-                        <p>Founder & CEO</p>
+                        <h2>Le Anh Tuan</h2>
+                        <p>Founder & Leader</p>
                         <div class="team-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -391,15 +389,13 @@
             <div class="col-lg-4 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="img/team-2.jpg" alt="Team Image">
+                        <img src="img/team.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Adam Phillips</h2>
-                        <p>Chef Executive</p>
+                        <h2>Nguyen Dang Cuong Quoc</h2>
+                        <p>Founder & Sub Leader</p>
                         <div class="team-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -408,15 +404,13 @@
             <div class="col-lg-4 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="img/team-3.jpg" alt="Team Image">
+                        <img src="img/team.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Thomas Olsen</h2>
-                        <p>Chef Advisor</p>
+                        <h2>Nguyen Dinh Trung</h2>
+                        <p>Founder</p>
                         <div class="team-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -425,15 +419,13 @@
             <div class="col-lg-6 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="img/team-4.jpg" alt="Team Image">
+                        <img src="img/team.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>James Alien</h2>
-                        <p>Advisor</p>
+                        <h2>Nguyen Huynh Duc</h2>
+                        <p>Founder</p>
                         <div class="team-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -442,15 +434,13 @@
             <div class="col-lg-6 col-md-6">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="img/team-4.jpg" alt="Team Image">
+                        <img src="img/team.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>James Alien</h2>
-                        <p>Advisor</p>
+                        <h2>Nguyen Manh Tu</h2>
+                        <p>Founder</p>
                         <div class="team-social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
                             <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
                             <a href=""><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>

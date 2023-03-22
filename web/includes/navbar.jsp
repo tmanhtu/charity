@@ -18,6 +18,7 @@
                     <a href="program?action=list" class="nav-item nav-link">Program</a>
                     <a href="news?action=list" class="nav-item nav-link">News</a>
                     <a href="contact.jsp" class="nav-item nav-link">Contact</a>
+                    <a href="donate.jsp" class="nav-item nav-link">Donate</a>
 <!--                    <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu">

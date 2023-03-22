@@ -52,12 +52,10 @@
         </div>
         <div class="container copyright">
             <div class="row">
-                <div class="col-md-6">
-                    <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved.</p>
+                <div class="col-md-12">
+                    <p>&copy; <a href="#">FantasticV</a>, All Right Reserved.</p>
                 </div>
-                <div class="col-md-6">
-                    <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                </div>
+                
             </div>
         </div>
     </div>
